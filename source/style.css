@@ -38,3 +38,16 @@ audio {
     border: 2px solid orange;
     border-radius: 6px;
 }
+
+
+@media (max-width: 720px) {
+    body {
+        font-size: 10pt;
+    }
+    .Track {
+        width: 400px;
+    }
+    main {
+        width: 430px;
+    }
+}
