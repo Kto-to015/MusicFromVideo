@@ -53,4 +53,8 @@ audio {
     .OneBlock {
         width: 400px;
     }
+    .ones-block {
+        border: none;
+        border-radius: none;
+    }
 }
