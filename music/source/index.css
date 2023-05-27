@@ -1,0 +1,27 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+main {
+    width: 500px;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.OneBlock {
+    margin: 10px 10px 10px 10px;
+}
+.Track {
+    border: 1px solid rgba(0, 0, 0, 0.164);
+    border-radius: 10px;
+    /* margin-top: 10px; */
+    margin-bottom: 20px;
+}
+audio {
+    margin-top: 15px;
+}
